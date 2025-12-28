@@ -1,4 +1,4 @@
-// package Java;
+package Java;
 
 class Student{
     String name;
