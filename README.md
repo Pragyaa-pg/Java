@@ -1,1 +1,2 @@
-Thank you for the guidance. I will learn React, Supabase, and Git over the week and get back to you when ready
+This repository contains Java programs based on Object-Oriented Programming (OOPS) concepts
+It is created for learning and practice purposes
