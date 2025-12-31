@@ -11,9 +11,9 @@ package Java;
     public void deposit(int amount) {
         balance += amount;
     }
-}
+    }
 
-public class encapsulationn {
+public class encapsulation{
     public static void main(String[] args) {
         BankAccount b = new BankAccount();
         b.deposit(500);
