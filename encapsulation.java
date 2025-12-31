@@ -1,5 +1,4 @@
-package Java;
-
+// package Java_practice;
 
     class BankAccount {
     private int balance = 1000;   // data hidden
